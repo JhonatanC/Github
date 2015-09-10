@@ -1,0 +1,1 @@
+Carpeta totalmente dedicada para realizar prebas de Git y Github
